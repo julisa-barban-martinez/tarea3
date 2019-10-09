@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tarea3</string>
+    <string name="texto1">Mensaje de bienvenida</string>
+    <string name="titulomenuprincipal">Menu principal</string>
+    <string name="principal">Mensaje de Bienvenida</string>
+
+    <string name="primera">teso</string>
+</resources>
